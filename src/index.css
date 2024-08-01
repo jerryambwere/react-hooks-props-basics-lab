@@ -53,6 +53,15 @@ nav a:active {
   height: 100vh;
   padding: 1rem;
 }
+#links{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  height: 10px
+  
+}
 
 #home {
   background-color: cornsilk;
